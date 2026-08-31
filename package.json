@@ -1,0 +1,13 @@
+{
+  "name": "rmt-log-bot",
+  "version": "1.0.0",
+  "description": "RMT Advanced Log Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "express": "^4.19.2"
+  }
+}
